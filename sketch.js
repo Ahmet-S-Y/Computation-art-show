@@ -9,7 +9,7 @@ let threeY = 10;
 let threeSpacing = 20;
 
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(1200, 800);
   background(0);
 }
 
